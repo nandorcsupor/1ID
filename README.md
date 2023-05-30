@@ -7,6 +7,8 @@ Usage
     - Enter the operations on fractions as prompted.
     - The program will display the result of the operation.
     - Repeat steps 2 and 3 until you type "exit" to quit the program.
+    
+# Run tests: python3 tests.py
 
 # Supported Operations
 The program supports the following operations:
