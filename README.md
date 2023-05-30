@@ -33,14 +33,10 @@ The program accepts fractions in the following formats:
 # Possible Improvements
 Given more time, the following improvements or features could be implemented:
 
-Error Handling: Add error handling to the program to handle invalid input gracefully. For example, detect and handle division by zero or unrecognized operators.
-Simplification: Implement a simplification feature that simplifies the resulting fraction to its simplest form.
 Additional Operations: Extend the program to support more advanced operations, such as exponentiation or square root of fractions.
 Decimal Output: Provide an option to display the result as a decimal approximation in addition to the fractional form.
-Interactive Mode: Implement an interactive mode where the program continuously accepts input without the need to type "exit" explicitly.
 History and Memory: Add a memory feature to store previous results or a history of operations for reference and retrieval.
 Graphical User Interface (GUI): Develop a graphical user interface for the fraction calculator to enhance user experience and ease of use.
-These are just a few ideas for further enhancing the program. Feel free to explore and implement additional features based on your requirements and preferences.
 
 License
 This project is licensed under the MIT License.
