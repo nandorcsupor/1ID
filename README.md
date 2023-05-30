@@ -33,10 +33,10 @@ The program accepts fractions in the following formats:
 # Possible Improvements
 Given more time, the following improvements or features could be implemented:
 
-Additional Operations: Extend the program to support more advanced operations, such as exponentiation or square root of fractions.
-Decimal Output: Provide an option to display the result as a decimal approximation in addition to the fractional form.
-History and Memory: Add a memory feature to store previous results or a history of operations for reference and retrieval.
-Graphical User Interface (GUI): Develop a graphical user interface for the fraction calculator to enhance user experience and ease of use.
+- Additional Operations: Extend the program to support more advanced operations, such as exponentiation or square root of fractions.
+- Decimal Output: Provide an option to display the result as a decimal approximation in addition to the fractional form.
+- History and Memory: Add a memory feature to store previous results or a history of operations for reference and retrieval.
+- Graphical User Interface (GUI): Develop a graphical user interface for the fraction calculator to enhance user experience and ease of use.
 
 License
 This project is licensed under the MIT License.
